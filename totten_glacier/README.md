@@ -6,5 +6,5 @@ Data from the [ICECAP](http://www.ig.utexas.edu/research/projects/icecap/) [proj
 
 Print the ice sheet upside down and with support material.
 
-Ben Raymond, David Gwyther, Ben Galton-Fenzi, Jason Roberts, and others at the [http://www.antarctica.gov.au/](Australian Antarctic Division) and the [http://acecrc.org.au/](Antarctic Climate and Ecosystems CRC).
+Ben Raymond, David Gwyther, Ben Galton-Fenzi, Jason Roberts, and others at the [Australian Antarctic Division](http://www.antarctica.gov.au/) and the [Antarctic Climate and Ecosystems CRC](http://acecrc.org.au/).
 
